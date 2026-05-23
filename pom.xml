@@ -7,7 +7,7 @@
   <groupId>net.pincette</groupId>
   <artifactId>pincette-config-util</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <name>pincette-config-util</name>
   <description>General utilities</description>
   <url>https://github.com/wdonne/pincette-config-util</url>
@@ -57,7 +57,7 @@
     <dependency>
       <groupId>com.typesafe</groupId>
       <artifactId>config</artifactId>
-      <version>1.4.6</version>
+      <version>1.4.8</version>
     </dependency>
   </dependencies>
 
